@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as **Software Engineer**
 
-- 🌱 I’m currently working with **React.js, Bootstarp, Express.js, MongoDB, Tailwind and Node.js**
+- 🌱 I’m currently working with **React.js, Vue.js, Bootstarp, Express.js, MongoDB, Tailwind and Node.js**
 
 - 👯 I’m looking to collaborate on **Frontend Projects.**
 
